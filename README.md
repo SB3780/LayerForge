@@ -75,67 +75,30 @@ LayerForge vereinfacht den gesamten 3D-Druckprozess von der Materialauswahl übe
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-LayerForge – The Intelligent Assistant for 3D Printing
+# LayerForge
 
-LayerForge is a comprehensive platform for FDM 3D printers that supports users with material selection, print optimization, troubleshooting, and calibration. The application combines an extensive printer and filament database with intelligent analysis tools to help achieve consistent, high-quality printing results.
+LayerForge is an intelligent companion for FDM 3D printing that helps users optimize print quality, troubleshoot issues, and select the right materials with confidence.
 
-Main Features
-🖨 Printer Database
-134 integrated 3D printer models
-Detailed printer datasheets
-Technical specifications and key features
-Model-specific recommendations
-Individual printer images
-🧵 Filament Database
-Comprehensive material profiles
-Manufacturer and product assignment
-Printing parameters for various materials
-Compatibility checks between printers and filaments
-Verification levels for data quality
-🔍 Automatic Print Failure Analysis
-Analysis of 41 common print defects
-Root cause analysis based on the selected printer and material
-Actionable correction recommendations
-Priority and safety assessments
-Visual examples for rapid defect identification
-📸 Photo Diagnosis
-Analysis of print defects from uploaded photos
-Detection of common problem patterns
-Troubleshooting recommendations
-Support for identifying unknown print defects
-⚙ Calibration Center
+The platform combines a large database of 134 3D printers, comprehensive filament profiles, compatibility analysis, calibration tools, and automated print-failure diagnostics in a single, easy-to-use application.
 
-LayerForge provides step-by-step guidance for printer calibration and helps optimize:
-
-Temperature
-Flow Rate
-Retraction
-First Layer
-Acceleration
-Print Speed
-✅ Verified Data Quality
-
-LayerForge evaluates profiles using a multi-level trust system:
-
-V1: Manufacturer specifications
-V2: Manufacturer + Community validation
-V3: Multi-source validated
-V4: Extensive real-world testing
-V5: Fully verified
-Who Is LayerForge For?
-
-LayerForge is designed for:
-
-Beginners in 3D printing
-Advanced makers
+Features
+🖨️ Extensive 3D printer database with detailed datasheets
+🧵 Filament database with material profiles and compatibility checks
+🔍 Analysis of 41 common print defects with corrective actions
+📸 Photo-based print failure diagnosis
+⚙️ Guided calibration tools for temperature, flow, retraction, first layer, acceleration, and print speed
+✅ Multi-level verification system (V1–V5) for trusted profile quality
+Designed For
+Beginners
+Makers and hobbyists
 Professional users
 Print farms
 Engineers and developers
 Educational institutions
-The Mission of LayerForge
+Mission
 
-LayerForge simplifies the entire 3D printing workflow, from material selection and print preparation to defect analysis and printer optimization. By combining structured data, intelligent recommendations, and practical tools, the platform helps users reduce failed prints, improve print quality, and save both time and material.
+LayerForge simplifies the entire 3D printing workflow, from material selection and printer setup to troubleshooting and optimization. By combining structured data, intelligent recommendations, and practical tools, it helps reduce failed prints, improve print quality, and save time and material.
 
-Whether you are printing your first model or managing a production-scale print farm, LayerForge provides the knowledge, tools, and confidence needed to achieve reliable results.
+🚀 LayerForge – Less Guesswork. More Perfect Prints. 🖨️
 
 🚀 LayerForge – Less Guesswork. More Perfect Prints. 🖨️
