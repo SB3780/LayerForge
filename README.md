@@ -100,5 +100,3 @@ Mission
 LayerForge simplifies the entire 3D printing workflow, from material selection and printer setup to troubleshooting and optimization. By combining structured data, intelligent recommendations, and practical tools, it helps reduce failed prints, improve print quality, and save time and material.
 
 🚀 LayerForge – Less Guesswork. More Perfect Prints. 🖨️
-
-🚀 LayerForge – Less Guesswork. More Perfect Prints. 🖨️
